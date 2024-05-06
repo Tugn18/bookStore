@@ -54,6 +54,7 @@ export default function SelectDate() {
 
   return (
     <section className="py-12 px-32">
+      {/* <p>test</p> */}
       <p className="text-center font-bold text-[25px] mb-12">
         Bước 1: Chọn thời gian và địa điểm
       </p>
